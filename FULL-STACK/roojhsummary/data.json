@@ -1,0 +1,106 @@
+{
+    "user_information": {
+        "user_details": {
+            "name": "Sahil",
+            "age": "31",
+            "BMI": "18.52",
+            "bloodGroup": "B+",
+            "height": {
+                "value": "161"
+            },
+            "weight": "121",
+            "address": "mahagun noida",
+            "phone_no": "+911111111111",
+            "email": ""
+        }
+    },
+    "roojh_summary": {
+        "summary": {
+            "conclusion": "person is good at health",
+            "social_history": {
+                "comment": ""
+            },
+            "family_history": {
+                "comment": ""
+            },
+            "medical_history": {
+                "comment": "",
+                "description": "",
+                "problem_list": [
+                    {
+                        "year": "2023",
+                        "list_details": [
+                            {
+                                "date": "06 june 2023",
+                                "comment": "post covid condition"
+                            },
+                            {
+                                "date": "25 april 2023",
+                                "comment": "sumasoft"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "medication": {
+                "comment": "",
+                "list_of_medication": [
+                    "Zenmac ,  500 mg , (azithromycin), One Time a Day",
+                    "Theocef ,  250 mg , (cefuroxime axetil), 2 Times a Day",
+                    "Theocef ,  250 mg , (cefuroxime axetil), 2 Times a Day",
+                    "Nimtas T ,  20 mg/1 mL + 5 mg/1 mL eye drops, (dorzolamide hydrochloride and timolol maleate), 2 Times a Day",
+                    "Dorzina T ,  20 mg/1 mL + 5 mg/1 mL eye drops, (dorzolamide hydrochloride and timolol maleate), 2 Times a Day",
+                    "Ulcirex ,  20 mg , (omeprazole), SoS",
+                    "Paracetamol 500mg Tablet, undefined, (Paracetamol (500mg),Acetaminophen,), One Time a Day",
+                    "Paracetamol 500mg Tablet, , (Paracetamol (500mg),Acetaminophen,), One Time a Day",
+                    "Paracet 500mg Tablet, undefined, (Paracetamol (500mg),Acetaminophen,), One Time a Day",
+                    "XXParacetamol Tablet, , (XX Para salt), One Time a Day",
+                    "zzDolo 650 Tablet, undefined, (Paracetamol (650mg),Acetaminophen,), Before Bed",
+                    "zzDolo 650 Tablet, , (Paracetamol (650mg),Acetaminophen,), Before Bed",
+                    "zzDolo 650 Tablet, , (Paracetamol (650mg),Acetaminophen,), Before Bed",
+                    "Zenmac ,  500 mg , (azithromycin), One Time a Day",
+                    "Theocef ,  250 mg , (cefuroxime axetil), 2 Times a Day",
+                    "Zenmac ,  500 mg , (azithromycin), One Time a Day",
+                    "Theocef ,  250 mg , (cefuroxime axetil), 2 Times a Day",
+                    "Zenmac ,  500 mg , (azithromycin), One Time a Day",
+                    "Theocef ,  250 mg , (cefuroxime axetil), 2 Times a Day",
+                    "Zenmac ,  500 mg , (azithromycin), One Time a Day",
+                    "Theocef ,  250 mg , (cefuroxime axetil), 2 Times a Day",
+                    "Zenmac ,  500 mg , (azithromycin), One Time a Day",
+                    "Theocef ,  250 mg , (cefuroxime axetil), 2 Times a Day"
+                ]
+            },
+            "allergy": {
+                "comment": "",
+                "list_of_allergies": []
+            },
+            "recent_labs": {
+                "comment": "",
+                "list_of_recent_labs": [
+                    "3ew4",
+                    "rwerwer"
+                ]
+            },
+            "surgical_history": {
+                "list_of_surgical_history": [
+                    "2022, Jun, fadaa"
+                ],
+                "surgical_comment": ""
+            },
+            "primary_doctor": {
+                "details_of_primary_doctor": {
+                    "address": "yredtdtrx",
+                    "name": "hjftd",
+                    "telephone": "6761745151"
+                },
+                "comment": ""
+            },
+            "cardiology": {
+                "comment": "csa"
+            },
+            "radiology": {
+                "comment": ""
+            }
+        }
+    }
+}
